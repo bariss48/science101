@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 880.00006 880.00006" xmlns="http://www.w3.org/2000/svg">
+ <path transform="matrix(1.4309 0 0 1.4309 -275.45 -418.54)" d="m800 600a300 300 0 1 1 -600 0 300 300 0 1 1 600 0z" fill="#ff0" stroke="#000" stroke-width="15"/>
+ <path transform="matrix(.5 .86603 -.86603 .5 623.01 -244.62)" d="m900 500a400 400 0 0 1 -200 346.41l-200-346.41z"/>
+ <path transform="matrix(-1 8.471e-8 -8.471e-8 -1 940 940)" d="m900 500a400 400 0 0 1 -200 346.41l-200-346.41z"/>
+ <path transform="matrix(.5 -.86603 .86603 .5 -243.01 623.01)" d="m900 500a400 400 0 0 1 -200 346.41l-200-346.41z"/>
+ <path transform="matrix(.51127 0 0 .51127 184.36 184.36)" d="m600 500a100 100 0 1 1 -200 0 100 100 0 1 1 200 0z" stroke="#ff0" stroke-width="39.118"/>
+</svg>
